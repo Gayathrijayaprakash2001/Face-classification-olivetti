@@ -1,37 +1,37 @@
-Olivetti Faces Recognition
-<u>Project Overview</u>
+# Olivetti Faces Recognition
+***Project Overview***
 
 The Olivetti Faces Recognition project implements a machine learning system to classify grayscale face images into 40 individuals using the Olivetti Faces dataset.
 
 This project demonstrates a complete ML workflow, including data exploration, visualization, training, and evaluation, making it ideal for beginners and portfolio presentation.
 
-<u>Objective</u>
+***Objective***
 
-Predict the individual in a face image (from 40 people).
+* Predict the individual in a face image (from 40 people).
 
-Explore and visualize image data to connect raw pixels to actual faces.
+* Explore and visualize image data to connect raw pixels to actual faces.
 
-Build a reproducible pipeline for image classification.
+* Build a reproducible pipeline for image classification.
 
-<u>Dataset Details</u>
+***Dataset Details***
 
-Name: Olivetti Faces Dataset
+* Name: Olivetti Faces Dataset
 
-Source: scikit-learn (sklearn.datasets.fetch_olivetti_faces)
+* Source: scikit-learn (sklearn.datasets.fetch_olivetti_faces)
 
-Total Images: 400
+* Total Images: 400
 
-Number of Classes (Individuals): 40
+* Number of Classes (Individuals): 40
 
-Images per Person: 10
+* Images per Person: 10
 
-Image Size: 64 × 64 pixels, grayscale
+* Image Size: 64 × 64 pixels, grayscale
 
-Pixel Values: Normalized between 0 and 1
+* Pixel Values: Normalized between 0 and 1
 
-Target Values: Labels from 0–39 representing each individual
+* Target Values: Labels from 0–39 representing each individual
 
-<u>Project Workflow</u>
+***Project Workflow***
 1. Load and Explore Dataset
 
 Load dataset using fetch_olivetti_faces().
@@ -82,26 +82,26 @@ Try SVM, Logistic Regression, or Neural Networks.
 
 Hyperparameter tuning and data augmentation.
 
-<u>Technologies Used</u>
+***Technologies Used***
 
-Python 3.x – programming language
+* Python 3.x – programming language
 
-scikit-learn – dataset handling, model training, evaluation
+* scikit-learn – dataset handling, model training, evaluation
 
-NumPy – numerical operations
+* NumPy – numerical operations
 
-Pandas – data exploration
+* Pandas – data exploration
 
-Matplotlib / Seaborn – visualization
+* Matplotlib – visualization
 
-<u>Key Learning Outcomes</u>
+***Key Learning Outcomes***
 
-Understand image dataset structure and targets.
+* Understand image dataset structure and targets.
 
-Visualize and interpret pixel data as actual faces.
+* Visualize and interpret pixel data as actual faces.
 
-Implement a complete ML pipeline for classification.
+* Implement a complete ML pipeline for classification.
 
-Evaluate models using accuracy and confusion matrices.
+* Evaluate models using accuracy and confusion matrices.
 
-Gain a foundation for more advanced face recognition techniques.
+* Gain a foundation for more advanced face recognition techniques.
