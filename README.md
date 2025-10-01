@@ -53,6 +53,8 @@ Display images with target labels.
 Example of Person ID 0:
 
 (Replace the path with your actual image in the repo)
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/c27aa1da-a363-444a-b16f-2ab08f8ca574" />
+
 
 3. Split Data
 
@@ -74,13 +76,6 @@ Generate a confusion matrix to visualize misclassifications:
 
 (Replace the path with your actual image in the repo)
 
-6. Optional Improvements
-
-Apply PCA / eigenfaces for dimensionality reduction.
-
-Try SVM, Logistic Regression, or Neural Networks.
-
-Hyperparameter tuning and data augmentation.
 
 ***Technologies Used***
 
