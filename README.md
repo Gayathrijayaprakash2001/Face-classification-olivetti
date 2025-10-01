@@ -53,7 +53,7 @@ Display images with target labels.
 Example of Person ID 0:
 
 (Replace the path with your actual image in the repo)
-<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/c27aa1da-a363-444a-b16f-2ab08f8ca574" />
+<img width="289" height="311" alt="image" src="https://github.com/user-attachments/assets/c27aa1da-a363-444a-b16f-2ab08f8ca574" />
 
 
 3. Split Data
